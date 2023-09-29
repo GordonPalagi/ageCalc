@@ -1,5 +1,5 @@
 import "./App.css";
-import DateBox from "./components/datebox/DateBox";
+import DateBox from "./DateBox";
 import moment from "moment";
 import { useState } from "react";
 import { BsFillArrowDownCircleFill } from "react-icons/bs";
