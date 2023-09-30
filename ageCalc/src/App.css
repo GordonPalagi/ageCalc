@@ -37,9 +37,9 @@
 }
 
 p {
-  padding: 0;
+  /* padding-left: 0px; */
   margin: 0;
-  font-size: 3.5rem;
+  font-size: 12vw;
 }
 
 span {
