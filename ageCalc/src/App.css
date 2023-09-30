@@ -15,6 +15,7 @@
   padding: 2rem;
   font-family: 'Poppins', 'sans-serif';
   width: clamp(300px, 80%, 600px);
+  overflow: hidden;
 }
 
 .year-selection {
