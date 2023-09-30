@@ -14,7 +14,7 @@
   border-radius: 10px 10px 35% 10px;
   padding: 2rem;
   font-family: 'Poppins', 'sans-serif';
-  width: clamp(300px, 80%, 600px);
+  width: clamp(300px, 50%, 600px);
   overflow: hidden;
 }
 
